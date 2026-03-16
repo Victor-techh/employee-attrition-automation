@@ -5,6 +5,11 @@ Este projeto integra **Python, SQL e Power BI** para criar um fluxo automatizado
 ## 🚀 Visão Geral
 O objetivo deste projeto foi construir um pipeline que elimine a volatilidade dos dados e automatize a carga para ferramentas de BI, permitindo análises como esta, que trata especificamente sobre os fatores que levam os colaboradores a deixarem a empresa, o churn de funcionarios(Attrition).
 
+## 📂 Fonte dos Dados
+Os dados utilizados neste projeto são públicos e foram extraídos do Kaggle: 
+* **Dataset:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+* **Descrição:** Dados fictícios da IBM usados para prever a rotatividade de funcionários.
+
 ## 🏗️ Arquitetura da Solução
 
 ### 1. Engenharia de Dados (ETL)
